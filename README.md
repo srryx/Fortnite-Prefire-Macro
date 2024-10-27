@@ -17,4 +17,4 @@ This is a fortnite prefire macro using colors.
 - Always press stop before closing, or else it keeps running in task manager (will fix this soon)
 - For the delay slider dont use 0.0s, or else its buggy asf for some reason (will fix this soon)
 ## Preview
-![Easy Prefire GUI](https://github.com/srryx/Fortnite-Prefire-Macro/blob/main/preview.png))
+![Easy Prefire GUI](https://github.com/srryx/Fortnite-Prefire-Macro/blob/main/preview.png)

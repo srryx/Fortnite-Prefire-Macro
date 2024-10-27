@@ -4,6 +4,7 @@ This is a fortnite prefire macro using colors.
 - First run `install_requirements.bat`
 - Then run `start.bat`
 ## How-To-Use
+- Tutorial Here: (https://youtu.be/lTndTbo9QxA?si=UiAoSK5RUiZfhG4N)
 - Place a wall in gamew
 - Click select green in the gui, then click the green on the health bar
 - Damage the wall, click select orange, then ckick the orange color at the beginning of the health bar

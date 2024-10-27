@@ -8,7 +8,7 @@ This is a fortnite prefire macro using colors.
 - Click select green in the gui, then click the green on the health bar
 - Damage the wall, click select orange, then ckick the orange color at the beginning of the health bar
 - Set keybind
-- Set delay
+- Set delay (dont use 0.0s)
 - Slick start
 ## Info
 - Im using PyArmor because im planning on adding way more, just dont want it stolen atm

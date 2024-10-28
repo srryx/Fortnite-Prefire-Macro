@@ -17,5 +17,10 @@ This is a fortnite prefire macro using colors.
   (https://www.virustotal.com/gui/file/d3e39be0a615ea8472c4f114e53da79e1f1561401c7ad589b8f39f5039ad0807?nocache=1)
 - Always press stop before closing, or else it keeps running in task manager (will fix this soon)
 - For the delay slider dont use 0.0s, or else its buggy asf for some reason (will fix this soon)
+## To-Do
+- Add controller support (vgamepad)
+- Fix 0.0s delay bug
+- When you close the program it ends the whole process (stays in task manager for some reason)
+- Maybe add a FOV detection box
 ## Preview
 ![Easy Prefire GUI](https://github.com/srryx/Fortnite-Prefire-Macro/blob/main/preview.png)

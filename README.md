@@ -1,5 +1,6 @@
 # Fortnite-Prefire-Macro
-This is a fortnite prefire macro using colors.
+- This is a fortnite prefire macro using colors. 
+- **15 Stars and ill drop full source :)**
 ## Setup
 - First run `install_requirements.bat`
 - Then run `start.bat`

@@ -1,13 +1,11 @@
-/* Main Window background styling */
 #MainWindow {
     background-color: black;
-    background-image: url("snow_background.jpg");  /* Replace with your snow background image */
+    background-image: url("snow_background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-/* Rounded button styling */
 #RoundedButton {
     background-color: white;
     color: black;
@@ -20,7 +18,6 @@
     background-color: lightgray;
 }
 
-/* Delay slider styling */
 #DelaySlider {
     background-color: transparent;
 }

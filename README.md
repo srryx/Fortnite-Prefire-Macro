@@ -1,3 +1,5 @@
+# THIS PROGRAM IS NOW PATCHED!
+
 # Fortnite-Prefire-Macro
 - This is a fortnite prefire macro using color detection
 ## Setup

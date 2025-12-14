@@ -1,4 +1,4 @@
-# THIS PROGRAM IS NOW PATCHED!
+# THIS PROGRAM IS NOW PATCHED! (source code in discord)
 
 # Fortnite-Prefire-Macro
 - This is a fortnite prefire macro using color detection
